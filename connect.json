@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "yieldsentinel": {
+      "url": "https://yieldsentinel-agent-production.up.railway.app/mcp"
+    }
+  }
+}

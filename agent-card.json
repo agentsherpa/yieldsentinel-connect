@@ -1,0 +1,13 @@
+{
+  "name": "yieldsentinel",
+  "description": "Policy check on one described position, using yieldhunter scores. Research only. Non-custodial. Never executes or auto-exits. ERC-8004 on Base: 63771.",
+  "url": "https://yieldsentinel-agent-production.up.railway.app/",
+  "mcp": "https://yieldsentinel-agent-production.up.railway.app/mcp",
+  "agentCard": "https://yieldsentinel-agent-production.up.railway.app/.well-known/agent-card.json",
+  "iconUrl": "https://euc.li/yieldsentinel.eth",
+  "provider": {
+    "organization": "yieldsentinel.eth",
+    "url": "https://yieldsentinel-agent-production.up.railway.app/"
+  },
+  "notes": "Front-door pointer only. Full card and MCP live on Railway. Sibling: yieldhunter.eth (risk-adjusted ranks). No custody, no x402 in this repo."
+}
