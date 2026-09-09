@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "yieldsentinel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Research-only policy check on one described stablecoin position. Complements YieldHunter. No custody, no execution, no auto-exit. yieldsentinel.eth / Base 63771.",
   "author": {
     "name": "AgentSherpa",
@@ -10,5 +10,14 @@
   "homepage": "https://yieldsentinel-agent-production.up.railway.app/",
   "repository": "https://github.com/agentsherpa/yieldsentinel-connect",
   "license": "MIT",
-  "keywords": ["mcp", "stablecoin", "yield", "defi", "research", "policy", "non-custodial"]
+  "keywords": [
+    "mcp",
+    "stablecoin",
+    "yield",
+    "defi",
+    "research",
+    "policy",
+    "non-custodial"
+  ],
+  "logo": "assets/logo.png"
 }

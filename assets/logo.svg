@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="YieldSentinel">
+  <rect width="512" height="512" rx="96" fill="#0B1220"/>
+  <rect x="32" y="32" width="448" height="448" rx="80" fill="#111827"/>
+  <!-- shield -->
+  <path d="M256 96c48 28 96 36 128 40v128c0 72-48 124-128 160-80-36-128-88-128-160V136c32-4 80-12 128-40z" fill="#1E3A5F"/>
+  <path d="M256 128c40 22 80 28 104 32v104c0 56-38 98-104 128-66-30-104-72-104-128V160c24-4 64-10 104-32z" fill="#2563EB"/>
+  <!-- check -->
+  <path d="M196 256l36 36 84-92" fill="none" stroke="#E0F2FE" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
